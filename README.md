@@ -1,4 +1,5 @@
- [![committers.top badge](https://user-badge.committers.top/uganda/Nsu256.svg)](https://user-badge.committers.top/uganda/Nsu256)
+ [![committers.top badge]
+(https://user-badge.committers.top/uganda/Nsu256.svg)](https://user-badge.committers.top/uganda/Nsu256)
 
 ## 📊 GitHub Insights
 
